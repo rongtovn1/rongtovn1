@@ -7,4 +7,11 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱 I’m currently learning FPT University
+- 📖 I’m currently learning FPT University
+- 👨‍💻 learning Software Engineering.
+- Some programming languages that I was familiar with :
+  + HTML/CSS
+  + JavaScript
+  + Java
+  + JSP/Servlet
+- 🎤 I have a passion for art especially music.
